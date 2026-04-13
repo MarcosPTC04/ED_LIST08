@@ -79,6 +79,6 @@ Contém 20? true
 
 ## 👨‍💻 Autor
 
-Marcos Antonio
-Curso: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+Marcos Antonio  
+Curso: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS  
 Disciplina: Estrutura de Dados I
